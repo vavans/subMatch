@@ -1,0 +1,1500 @@
+1
+00:00:05,068 --> 00:00:07,269
+{\pos(192,210)}Et voici le poulet Kung Pao.
+
+2
+00:00:08,341 --> 00:00:09,467
+{\pos(192,210)}Pas mal.
+
+3
+00:00:09,759 --> 00:00:10,759
+Et enfin,
+
+4
+00:00:11,594 --> 00:00:12,903
+mon porc Moo Shu.
+
+5
+00:00:18,393 --> 00:00:21,672
+Eh voilà,
+tout un dîner déballé par un robot.
+
+6
+00:00:22,522 --> 00:00:24,441
+En seulement 28 minutes.
+
+7
+00:00:25,859 --> 00:00:29,154
+- Impressionnant, mais prudence.
+- Pourquoi ?
+
+8
+00:00:29,698 --> 00:00:32,497
+{\pos(192,205)}Aujourd'hui,
+il sert des plats chinois.
+
+9
+00:00:32,664 --> 00:00:36,583
+Demain, il voyagera dans le temps
+pour tuer Sarah Connor.
+
+10
+00:00:37,934 --> 00:00:39,456
+Je ne pense pas.
+
+11
+00:00:39,706 --> 00:00:42,417
+Personne ne le pense.
+C'est pour ça que ça arrive.
+
+12
+00:00:44,216 --> 00:00:45,541
+{\pos(192,225)}Salut, la bouffe est là ?
+
+13
+00:00:45,708 --> 00:00:47,033
+{\pos(192,225)}C'est quoi, ça ?
+
+14
+00:00:48,047 --> 00:00:50,584
+{\pos(192,225)}Ceci est la Main programmable
+de Wolowitz,
+
+15
+00:00:50,751 --> 00:00:54,512
+{\pos(192,225)}construite pour réparer
+la Station spatiale internationale.
+
+16
+00:00:56,347 --> 00:00:57,849
+Demande-moi la sauce soja.
+
+17
+00:00:58,099 --> 00:01:00,248
+Une situation courante sur l'ISS ?
+
+18
+00:01:01,167 --> 00:01:03,551
+Surtout avec les astronautes
+asiatiques et juifs.
+
+19
+00:01:04,653 --> 00:01:06,791
+- Passe-moi la sauce, alors.
+- Elle arrive.
+
+20
+00:01:18,358 --> 00:01:19,412
+{\pos(192,225)}Et le boulot ?
+
+21
+00:01:19,959 --> 00:01:20,959
+Ça va.
+
+22
+00:01:21,473 --> 00:01:22,415
+J'ai faim.
+
+23
+00:01:22,665 --> 00:01:23,872
+Comme nous tous.
+
+24
+00:01:24,796 --> 00:01:25,796
+Patience.
+
+25
+00:01:26,377 --> 00:01:29,182
+Tu réalises que la technologie
+contenue dans ce bras
+
+26
+00:01:29,349 --> 00:01:33,032
+rendra un jour obsolète
+une serveuse incompétente comme toi ?
+
+27
+00:01:34,299 --> 00:01:37,078
+Ils vont faire des robots
+qui crachent dans ton hamburger ?
+
+28
+00:01:39,863 --> 00:01:42,185
+Vous avez rompu.
+Pourquoi est-elle encore là ?
+
+29
+00:01:43,478 --> 00:01:46,891
+C'est parti. On passe la sauce soja.
+
+30
+00:01:48,687 --> 00:01:49,505
+Ta main.
+
+31
+00:01:56,366 --> 00:01:57,242
+Dingue !
+
+32
+00:01:57,492 --> 00:01:58,812
+Je ne dirais pas ça.
+
+33
+00:01:58,979 --> 00:02:02,439
+C'est une modeste amélioration
+de la technologie basique
+
+34
+00:02:02,606 --> 00:02:04,636
+utilisée dans les attractions
+de Walt Disney.
+
+35
+00:02:16,570 --> 00:02:17,429
+Paix ?
+
+36
+00:02:18,001 --> 00:02:19,855
+Non, pas la paix.
+Attends.
+
+37
+00:02:21,557 --> 00:02:24,239
+La TBBTeam présente
+
+38
+00:02:24,406 --> 00:02:27,313
+Épisode 4x01 :
+The Robotic Manipulation
+
+39
+00:02:28,266 --> 00:02:30,859
+<i>benji1000, Blek, kiima</i>
+
+40
+00:02:31,026 --> 00:02:34,404
+<i>MisterCaribou, Strex, Titou</i>
+
+41
+00:02:47,349 --> 00:02:49,931
+{\pub}La NASA sait que tu l'utilises
+comme porte-serviettes ?
+
+42
+00:02:50,671 --> 00:02:53,535
+{\pos(192,205)}Ils le croient sous clé au labo.
+
+43
+00:02:55,091 --> 00:02:56,050
+{\pos(192,205)}Tu l'as volé ?
+
+44
+00:02:56,421 --> 00:02:57,274
+{\pos(192,205)}Emprunté.
+
+45
+00:02:57,549 --> 00:02:59,804
+{\pos(192,205)}J'ai fait comme s'il m'appartenait.
+
+46
+00:03:06,889 --> 00:03:10,830
+{\pos(192,205)}Amy est au pressing,
+elle a fait un bon jeu de mots.
+
+47
+00:03:10,997 --> 00:03:13,749
+{\pos(192,205)}"Je me fiche du perchloroéthylène,
+
+48
+00:03:13,916 --> 00:03:16,488
+{\pos(192,205)}"je n'aime ni Ethyl ni Amine."
+
+49
+00:03:22,245 --> 00:03:25,655
+{\pos(192,205)}Compris ?
+Elle n'aime ni Ethyl ni Amine.
+
+50
+00:03:28,403 --> 00:03:29,793
+Comme l'éthylamine.
+
+51
+00:03:34,951 --> 00:03:36,276
+"LOL".
+
+52
+00:03:37,723 --> 00:03:39,385
+- Amy ?
+- Sa copine.
+
+53
+00:03:39,635 --> 00:03:41,572
+{\pos(192,205)}- Il a une copine ?
+- Non, c'est faux.
+
+54
+00:03:41,739 --> 00:03:43,448
+{\pos(192,205)}- Depuis quand ?
+- Quatre mois.
+
+55
+00:03:43,715 --> 00:03:45,683
+{\CP caché}- C'est pas vrai.
+- Attends.
+
+56
+00:03:45,933 --> 00:03:49,896
+{\pos(192,205)}T'as jamais pensé à me le dire
+en quatre mois ?
+
+57
+00:03:50,454 --> 00:03:52,202
+{\pos(192,205)}C'est pas ma copine.
+
+58
+00:03:53,042 --> 00:03:54,567
+Ils se sont connus où ?
+
+59
+00:03:54,817 --> 00:03:57,325
+{\pos(192,205)}On lui a créé un profil
+sur un site de rencontres,
+
+60
+00:03:57,492 --> 00:03:59,131
+et Amy Farrah Fowler en a jailli.
+
+61
+00:03:59,447 --> 00:04:01,533
+Mon Dieu, Amy et Sheldon !
+
+62
+00:04:01,783 --> 00:04:03,162
+On les appelle "Amish".
+
+63
+00:04:05,369 --> 00:04:08,095
+{\pos(192,205)}Amish, je kiffe Amish !
+
+64
+00:04:09,632 --> 00:04:11,000
+Votre attention.
+
+65
+00:04:11,250 --> 00:04:13,618
+{\pos(192,55)}Oui, j'ai une amie
+qui s'appelle Amy Farrah Fowler.
+
+66
+00:04:13,785 --> 00:04:15,138
+{\pos(192,40)}Oui, c'est une femme.
+
+67
+00:04:15,305 --> 00:04:17,294
+{\a6}Oui, nous communiquons chaque jour,
+
+68
+00:04:17,461 --> 00:04:19,634
+{\a6}mais non, ce n'est pas ma copine.
+
+69
+00:04:21,042 --> 00:04:22,561
+{\pos(192,205)}De quoi vous parlez ?
+
+70
+00:04:22,858 --> 00:04:26,410
+{\pos(192,205)}De mes travaux en physique,
+des siens en neurobiologie,
+
+71
+00:04:26,577 --> 00:04:29,778
+et récemment,
+de la possibilité d'avoir un enfant.
+
+72
+00:04:40,696 --> 00:04:41,948
+Un enfant ?
+
+73
+00:04:42,295 --> 00:04:45,496
+Tu la vois jamais,
+tu lui parles via e-mail et Twitter.
+
+74
+00:04:45,663 --> 00:04:47,245
+Et vous pensez faire un enfant ?
+
+75
+00:04:47,801 --> 00:04:51,490
+Amy m'a fait remarquer
+la qualité de notre potentiel génétique.
+
+76
+00:04:51,657 --> 00:04:53,617
+On pourrait créer le premier
+
+77
+00:04:53,784 --> 00:04:56,869
+d'une longue lignée de surhommes
+intellectuellement supérieurs
+
+78
+00:04:57,036 --> 00:04:59,506
+qui guideront l'humanité
+vers un avenir meilleur.
+
+79
+00:05:02,134 --> 00:05:04,727
+Les historiens à venir
+nous blâmeront
+
+80
+00:05:04,894 --> 00:05:07,448
+de ne pas avoir saisi cette chance
+de tuer Sheldon.
+
+81
+00:05:09,133 --> 00:05:11,288
+J'ai une question.
+
+82
+00:05:12,145 --> 00:05:15,273
+T'aimes pas qu'on te touche.
+Alors, comment tu vas faire l'amour ?
+
+83
+00:05:17,445 --> 00:05:19,027
+Pourquoi ferait-on ça ?
+
+84
+00:05:21,487 --> 00:05:24,302
+Mon chou, maman t'a pas parlé
+des choses de la vie,
+
+85
+00:05:24,469 --> 00:05:27,040
+quand tes parties intimes
+ont pris du volume ?
+
+86
+00:05:27,828 --> 00:05:31,096
+Je suis assez au fait de la façon
+dont l'humain se reproduit.
+
+87
+00:05:31,263 --> 00:05:32,944
+C'est sale, insalubre.
+
+88
+00:05:33,111 --> 00:05:35,125
+Je suis ton voisin depuis trois ans,
+
+89
+00:05:35,292 --> 00:05:38,413
+j'ai vu que ça implique
+de bruyants appels à Dieu.
+
+90
+00:05:39,510 --> 00:05:41,591
+- Oh, mon Dieu.
+- Oui, comme ça.
+
+91
+00:05:45,148 --> 00:05:48,870
+Par conséquent, si Amy et moi
+décidons de créer une vie en ce monde,
+
+92
+00:05:49,037 --> 00:05:51,970
+ce sera fait cliniquement,
+avec des experts de la fécondité,
+
+93
+00:05:52,137 --> 00:05:53,770
+dans des boîtes de Pétri.
+
+94
+00:05:54,020 --> 00:05:57,855
+D'ailleurs, tu as de larges hanches
+et un dynamisme hors du commun.
+
+95
+00:05:58,022 --> 00:06:00,259
+Ton utérus est à louer ?
+
+96
+00:06:02,922 --> 00:06:04,548
+Tu kiffes toujours les Amish ?
+
+97
+00:06:06,422 --> 00:06:09,327
+Avant de te précipiter
+à la clinique de fertilité,
+
+98
+00:06:09,578 --> 00:06:11,923
+tu devrais peut-être penser à,
+pourquoi pas,
+
+99
+00:06:12,090 --> 00:06:14,248
+passer du temps avec elle ?
+
+100
+00:06:14,499 --> 00:06:16,209
+Sortir ensemble ?
+
+101
+00:06:16,459 --> 00:06:17,866
+- Je peux pas.
+- Pourquoi ?
+
+102
+00:06:18,253 --> 00:06:19,712
+Ce n'est pas ma copine !
+
+103
+00:06:20,234 --> 00:06:22,162
+Vois les choses autrement.
+
+104
+00:06:22,329 --> 00:06:25,635
+Tu apprendrais à connaître
+la mère de ton enfant.
+
+105
+00:06:28,209 --> 00:06:29,931
+Je ne voyais pas ça comme ça.
+
+106
+00:06:30,456 --> 00:06:32,725
+C'est vrai qu'elle aura accès
+à notre progéniture.
+
+107
+00:06:33,107 --> 00:06:37,313
+Je ne peux pas me rapprocher d'elle
+par SMS ?
+
+108
+00:06:37,643 --> 00:06:38,551
+J'en doute.
+
+109
+00:06:40,435 --> 00:06:43,489
+On dirait que les opérateurs mobiles
+m'ont menti.
+
+110
+00:06:52,369 --> 00:06:54,513
+Tu sais que j'attends
+de l'autre côté de la porte
+
+111
+00:06:54,680 --> 00:06:56,908
+que tu finisses
+de taper trois fois ?
+
+112
+00:06:58,036 --> 00:07:00,878
+Je sais, je vois l'ombre de tes pieds
+sous la porte.
+
+113
+00:07:02,058 --> 00:07:03,756
+C'est une perte de temps.
+
+114
+00:07:04,132 --> 00:07:06,336
+Si tu veux un exemple
+de perte de temps,
+
+115
+00:07:06,503 --> 00:07:08,886
+je te conseille
+la présente discussion.
+
+116
+00:07:09,717 --> 00:07:10,680
+Tu veux quoi ?
+
+117
+00:07:10,930 --> 00:07:15,101
+J'ai décidé de suivre tes conseils
+et d'organiser un rendez-vous.
+
+118
+00:07:15,510 --> 00:07:17,123
+Super, amuse-toi bien.
+
+119
+00:07:17,603 --> 00:07:18,938
+Attends.
+Conduis-moi.
+
+120
+00:07:19,188 --> 00:07:21,399
+- Quoi ?
+- Tu sais que je ne conduis pas.
+
+121
+00:07:21,649 --> 00:07:24,602
+- Demande à Leonard.
+- Déjà fait. Il a dit, je cite,
+
+122
+00:07:24,769 --> 00:07:27,271
+"Demande à Penny,
+cette satanée idée vient d'elle."
+
+123
+00:07:28,787 --> 00:07:30,033
+Il a dit "satanée" ?
+
+124
+00:07:30,283 --> 00:07:31,899
+En fait, je paraphrase.
+
+125
+00:07:32,066 --> 00:07:36,021
+Je viens d'une maison chrétienne.
+Son vocabulaire me dérange.
+
+126
+00:07:37,642 --> 00:07:40,543
+Et pour être honnête,
+je suis mal à l'aise avec "satanée".
+
+127
+00:07:41,609 --> 00:07:42,670
+C'est quand ?
+
+128
+00:07:42,920 --> 00:07:44,255
+- Maintenant.
+- Quoi ?
+
+129
+00:07:44,505 --> 00:07:46,174
+Vite, on va être en retard.
+
+130
+00:07:47,943 --> 00:07:50,970
+T'as pensé que je pouvais avoir
+autre chose à faire ?
+
+131
+00:07:51,400 --> 00:07:53,431
+Désolé.
+T'as autre chose à faire ?
+
+132
+00:07:57,429 --> 00:07:59,729
+Non, pas vraiment, mais...
+
+133
+00:08:00,707 --> 00:08:04,451
+Cette conversation est aussi inutile
+que ta tirade sur ma façon de frapper.
+
+134
+00:08:06,616 --> 00:08:09,061
+Laisse-moi prendre
+mes satanées clés.
+
+135
+00:08:12,997 --> 00:08:14,577
+Bon sang, ça fait du bien...
+
+136
+00:08:20,425 --> 00:08:22,304
+Oui, juste là, bébé...
+
+137
+00:08:24,713 --> 00:08:26,165
+Le dîner est prêt !
+
+138
+00:08:27,010 --> 00:08:29,309
+Je mangerai plus tard,
+je suis occupé !
+
+139
+00:08:31,505 --> 00:08:33,233
+Comme une vraie main.
+
+140
+00:08:46,698 --> 00:08:49,504
+- Merci de m'y conduire.
+- Je t'en prie.
+
+141
+00:08:51,417 --> 00:08:53,528
+J'aurais préféré
+que tu ne portes pas des tongs.
+
+142
+00:08:54,079 --> 00:08:56,155
+C'est dangereux de conduire avec ça.
+
+143
+00:08:58,654 --> 00:09:01,602
+Je ne voudrais pas être victime
+d'un drame de tongs.
+
+144
+00:09:04,274 --> 00:09:05,963
+Je peux te poser une question ?
+
+145
+00:09:06,500 --> 00:09:11,022
+Vu ton parcours scolaire,
+je t'encourage à m'en poser.
+
+146
+00:09:13,614 --> 00:09:16,618
+Je pense connaître la réponse,
+mais je me lance,
+
+147
+00:09:17,307 --> 00:09:18,808
+c'est ton premier rencard ?
+
+148
+00:09:19,611 --> 00:09:20,742
+Ça dépend.
+
+149
+00:09:21,319 --> 00:09:26,983
+Danser le quadrille avec ma sœur
+à la fête patronale, ça compte ?
+
+150
+00:09:28,734 --> 00:09:30,462
+Alors, c'est mon premier rencard.
+
+151
+00:09:32,125 --> 00:09:35,134
+Alors, tu devrais savoir
+une chose ou deux.
+
+152
+00:09:35,730 --> 00:09:38,411
+J'ai une maîtrise et deux doctorats.
+
+153
+00:09:38,661 --> 00:09:41,271
+Les choses que je devrais savoir,
+je les sais.
+
+154
+00:09:43,037 --> 00:09:45,960
+Je veux dire que j'en connais plus
+sur les rencards que toi.
+
+155
+00:09:46,210 --> 00:09:49,130
+Et si t'étais si intelligent que ça,
+tu m'écouterais.
+
+156
+00:09:50,188 --> 00:09:51,646
+Alors, explique-moi
+
+157
+00:09:51,813 --> 00:09:55,636
+que tu n'aies pas mieux à faire
+que de me conduire à mon rencard ?
+
+158
+00:09:59,084 --> 00:09:59,891
+Bien vu.
+
+159
+00:10:04,005 --> 00:10:06,564
+J'aimerais savoir un truc
+sur Aquaman.
+
+160
+00:10:08,203 --> 00:10:09,337
+Où fait-il caca ?
+
+161
+00:10:12,125 --> 00:10:12,920
+Quoi ?
+
+162
+00:10:13,228 --> 00:10:15,294
+Comment sont les toilettes
+en Atlantide ?
+
+163
+00:10:15,938 --> 00:10:18,246
+Comment on tire la chasse ?
+
+164
+00:10:18,967 --> 00:10:20,167
+Et où va le caca ?
+
+165
+00:10:24,485 --> 00:10:25,657
+Attends.
+
+166
+00:10:27,192 --> 00:10:28,085
+Ça va ?
+
+167
+00:10:31,147 --> 00:10:33,035
+Attends. Ralentis, Howard.
+
+168
+00:10:33,461 --> 00:10:35,461
+La main du robot
+est coincée sur quoi ?
+
+169
+00:10:39,764 --> 00:10:41,232
+Tu vas pas me croire.
+
+170
+00:10:55,920 --> 00:10:58,726
+{\pub}{\pos(192,205)}Alors Amy,
+Sheldon m'a dit que t'es neuro...
+
+171
+00:10:59,134 --> 00:11:00,248
+quelque chose.
+
+172
+00:11:01,848 --> 00:11:03,199
+Neurobiologiste.
+
+173
+00:11:04,246 --> 00:11:05,933
+Le voyant moteur est allumé.
+
+174
+00:11:08,537 --> 00:11:09,565
+C'est normal.
+
+175
+00:11:09,884 --> 00:11:12,116
+- Ça indique...
+- Pas la peine.
+
+176
+00:11:12,283 --> 00:11:15,794
+J'ai perdu des heures
+à me battre contre ce moulin à vent.
+
+177
+00:11:19,036 --> 00:11:21,430
+C'est quoi, ton parfum ?
+Il sent bon.
+
+178
+00:11:22,077 --> 00:11:23,394
+De l'antipelliculaire.
+
+179
+00:11:25,518 --> 00:11:27,105
+Mon cuir chevelu est sec.
+
+180
+00:11:29,171 --> 00:11:30,890
+Tes cheveux sont très beaux.
+
+181
+00:11:31,801 --> 00:11:33,224
+Es-tu homosexuelle ?
+
+182
+00:11:35,737 --> 00:11:37,678
+J'essayais juste de te complimenter.
+
+183
+00:11:39,790 --> 00:11:41,810
+J'aurais été plus flattée
+si tu l'étais.
+
+184
+00:11:45,504 --> 00:11:46,664
+Un peu de musique ?
+
+185
+00:11:46,914 --> 00:11:48,791
+Non, je m'en passerais.
+
+186
+00:11:52,496 --> 00:11:54,162
+C'est parti pour le silence gênant.
+
+187
+00:12:00,155 --> 00:12:03,556
+T'as raconté à Amy,
+ton enfance au Texas ?
+
+188
+00:12:07,639 --> 00:12:09,020
+Pourquoi tu lui dis pas ?
+
+189
+00:12:10,041 --> 00:12:10,992
+D'accord.
+
+190
+00:12:11,772 --> 00:12:12,606
+Un enfer.
+
+191
+00:12:15,619 --> 00:12:16,652
+Une réponse ?
+
+192
+00:12:24,748 --> 00:12:26,325
+J'ai grandi dans le Nebraska.
+
+193
+00:12:26,698 --> 00:12:28,205
+Une petite ville près d'Omaha.
+
+194
+00:12:28,455 --> 00:12:29,893
+Très sympa.
+
+195
+00:12:30,060 --> 00:12:32,491
+Des fermes familiales,
+quelques labos de drogue...
+
+196
+00:12:33,752 --> 00:12:36,881
+En quoi c'est mieux
+qu'un silence gênant ?
+
+197
+00:12:37,131 --> 00:12:38,856
+Aucune idée. Je voulais essayer.
+
+198
+00:12:41,483 --> 00:12:42,483
+Les moldus.
+
+199
+00:12:49,859 --> 00:12:50,903
+T'as glissé,
+
+200
+00:12:51,070 --> 00:12:53,147
+et t'es tombé
+sur une main robotique ?
+
+201
+00:12:58,117 --> 00:12:59,198
+Le sexe en avant ?
+
+202
+00:13:03,866 --> 00:13:04,909
+Aidez-moi !
+
+203
+00:13:05,159 --> 00:13:08,410
+Je te conseille du lubrifiant,
+mais t'as dû tomber dessus aussi.
+
+204
+00:13:10,197 --> 00:13:11,332
+C'est pas drôle.
+
+205
+00:13:11,582 --> 00:13:12,388
+Ah bon ?
+
+206
+00:13:12,555 --> 00:13:15,830
+Une main robotique te tient la bite.
+C'est drôle !
+
+207
+00:13:17,724 --> 00:13:19,924
+Enlevez-moi ça
+avant que ma mère se pointe !
+
+208
+00:13:20,174 --> 00:13:22,927
+- Voyons ça.
+- Touche pas, c'est en pause.
+
+209
+00:13:23,177 --> 00:13:24,428
+Relançons-le.
+
+210
+00:13:24,678 --> 00:13:27,394
+J'ai lancé le mauvais programme,
+il croit tenir un tournevis.
+
+211
+00:13:27,561 --> 00:13:29,301
+Si tu relances, le robot va...
+
+212
+00:13:29,616 --> 00:13:30,437
+visser.
+
+213
+00:13:34,317 --> 00:13:35,390
+Voyons voir.
+
+214
+00:13:35,557 --> 00:13:39,559
+Quand Winnie l'ourson
+s'est coincé dans l'arbre à miel,
+
+215
+00:13:39,726 --> 00:13:43,184
+ses amis l'ont tiré hors de l'arbre.
+
+216
+00:13:45,726 --> 00:13:48,202
+Perso, je touche pas
+l'arbre à miel d'un autre mec.
+
+217
+00:13:50,076 --> 00:13:51,403
+On oublie.
+
+218
+00:13:51,570 --> 00:13:53,874
+Et si on le coupait
+à la scie électrique ?
+
+219
+00:13:54,124 --> 00:13:55,901
+Quoi ? Pas de scie !
+
+220
+00:13:56,068 --> 00:13:57,869
+Une circoncision m'a suffi.
+
+221
+00:14:01,650 --> 00:14:03,050
+Et au chalumeau ?
+
+222
+00:14:03,683 --> 00:14:05,412
+Je pensais que c'était évident.
+
+223
+00:14:05,579 --> 00:14:07,847
+On tire pas, on scie pas
+et pas de chalumeau.
+
+224
+00:14:08,097 --> 00:14:09,299
+Alors, on fait quoi ?
+
+225
+00:14:09,595 --> 00:14:13,964
+Howard, j'ai fait des cookies
+pour toi et tes petits amis !
+
+226
+00:14:14,820 --> 00:14:16,522
+Super.
+Merci, maman !
+
+227
+00:14:16,689 --> 00:14:19,508
+Je vous les apporte avec du soda !
+
+228
+00:14:19,675 --> 00:14:20,819
+Ne monte pas !
+
+229
+00:14:20,986 --> 00:14:23,870
+Pourquoi ? T'as honte de ta mère ?
+
+230
+00:14:24,037 --> 00:14:25,917
+Oui, mais c'est pas le problème !
+
+231
+00:14:27,572 --> 00:14:28,451
+Aidez-moi.
+
+232
+00:14:28,998 --> 00:14:30,543
+T'as une idée ?
+
+233
+00:14:30,871 --> 00:14:33,336
+Je ne pense plus
+qu'aux cookies et au soda.
+
+234
+00:14:42,036 --> 00:14:44,698
+J'ai un autre sujet de conversation.
+
+235
+00:14:45,293 --> 00:14:47,300
+C'est une grande nuit pour Sheldon.
+
+236
+00:14:48,075 --> 00:14:48,873
+Non ?
+
+237
+00:14:49,422 --> 00:14:50,563
+Une grande nuit ?
+
+238
+00:14:51,771 --> 00:14:53,934
+Le solstice d'hiver
+est une grande nuit.
+
+239
+00:14:55,144 --> 00:14:57,480
+Plus de 14 heures
+en Californie du Sud.
+
+240
+00:14:59,265 --> 00:15:00,691
+Belle anecdote.
+
+241
+00:15:04,614 --> 00:15:09,364
+Non, ce soir,
+c'est son premier rencard officiel.
+
+242
+00:15:10,242 --> 00:15:11,242
+Discutez-en.
+
+243
+00:15:11,910 --> 00:15:12,912
+Vraiment ?
+
+244
+00:15:13,162 --> 00:15:18,375
+Visiblement, un bal quasi incestueux
+pour la fête nationale, ça compte pas.
+
+245
+00:15:20,794 --> 00:15:22,922
+Et toi ?
+Tu vois beaucoup de mecs ?
+
+246
+00:15:23,172 --> 00:15:24,338
+Une fois par an.
+
+247
+00:15:24,505 --> 00:15:27,610
+J'ai passé un accord avec ma mère
+pour qu'elle me laisse tranquille.
+
+248
+00:15:27,777 --> 00:15:31,496
+Et qu'elle me laisse lui emprunter
+son grill incroyable.
+
+249
+00:15:35,322 --> 00:15:36,894
+Et toi ? Tu sors souvent ?
+
+250
+00:15:37,903 --> 00:15:39,855
+J'ai quelques rencards, oui.
+
+251
+00:15:44,147 --> 00:15:45,230
+C'était quoi...
+
+252
+00:15:46,487 --> 00:15:50,407
+Tu définis environ 171 copains
+en "quelques".
+
+253
+00:15:52,959 --> 00:15:55,287
+D'où sort ce nombre ?
+
+254
+00:15:55,537 --> 00:15:56,922
+Simple extrapolation.
+
+255
+00:15:57,089 --> 00:16:00,167
+Tu as été célibataire deux ans,
+ces trois dernières années.
+
+256
+00:16:00,417 --> 00:16:03,128
+En deux ans,
+j'ai vu 17 prétendants différents.
+
+257
+00:16:03,378 --> 00:16:04,733
+En revenant en arrière,
+
+258
+00:16:04,900 --> 00:16:06,919
+en corrigeant le biais
+
+259
+00:16:07,086 --> 00:16:09,593
+et en estimant un premier copain
+à l'âge de 15 ans...
+
+260
+00:16:09,843 --> 00:16:12,513
+Attends, j'ai pas commencé à 15 ans.
+
+261
+00:16:12,763 --> 00:16:13,681
+Seize ans ?
+
+262
+00:16:13,931 --> 00:16:14,848
+Quatorze.
+
+263
+00:16:16,960 --> 00:16:17,835
+Pardon.
+
+264
+00:16:18,002 --> 00:16:21,447
+Selon une distribution gaussienne
+dont le pic est à l'instant présent,
+
+265
+00:16:21,614 --> 00:16:24,942
+on obtient un total de 193 hommes.
+
+266
+00:16:26,276 --> 00:16:27,361
+À 8 hommes près.
+
+267
+00:16:29,538 --> 00:16:30,364
+Fascinant.
+
+268
+00:16:30,614 --> 00:16:32,866
+Tu as couché avec chacun d'eux ?
+
+269
+00:16:34,493 --> 00:16:36,846
+Ce nombre est facile à calculer.
+
+270
+00:16:37,621 --> 00:16:41,208
+Vu le nombre d'hommes
+que j'ai vu partir le matin
+
+271
+00:16:43,168 --> 00:16:45,963
+et le nombre de fois
+où elle était vêtue comme la veille...
+
+272
+00:16:46,405 --> 00:16:48,012
+On a compris, Sheldon.
+
+273
+00:16:48,179 --> 00:16:50,775
+Multiplions 193,
+
+274
+00:16:50,942 --> 00:16:53,053
+moins 21 avant son dépucelage,
+
+275
+00:16:53,303 --> 00:16:57,469
+on a donc 172 multiplié par 0,18
+ce qui nous donne...
+
+276
+00:16:57,636 --> 00:16:59,768
+30,96 partenaires sexuels.
+
+277
+00:17:01,478 --> 00:17:02,563
+Arrondissons à 31.
+
+278
+00:17:05,039 --> 00:17:08,485
+Tu as tout faux.
+C'est bien loin de la réalité.
+
+279
+00:17:08,735 --> 00:17:10,091
+Il me faut à boire.
+
+280
+00:17:11,697 --> 00:17:14,450
+C'est intéressant.
+Les perceptions sont subjectives.
+
+281
+00:17:14,617 --> 00:17:16,702
+Tu te perçois comme une traînée ?
+
+282
+00:17:24,596 --> 00:17:26,274
+Finissons de manger.
+
+283
+00:17:26,695 --> 00:17:28,339
+C'est un sujet intéressant.
+
+284
+00:17:28,732 --> 00:17:30,883
+Combien de rapports sexuels
+as-tu eus ?
+
+285
+00:17:31,306 --> 00:17:33,289
+Participer à une expérience
+
+286
+00:17:33,456 --> 00:17:37,364
+où l'orgasme est provoqué
+par stimulation neuronale, ça compte ?
+
+287
+00:17:39,423 --> 00:17:40,591
+Je pense, oui.
+
+288
+00:17:41,624 --> 00:17:43,228
+Alors, 128 rapports.
+
+289
+00:17:52,530 --> 00:17:53,404
+Viens.
+
+290
+00:17:54,673 --> 00:17:55,673
+On y est.
+
+291
+00:18:02,158 --> 00:18:03,499
+Ne tire pas !
+
+292
+00:18:03,749 --> 00:18:05,376
+Tu réfléchiras, la prochaine fois.
+
+293
+00:18:07,628 --> 00:18:09,025
+Vous pouvez nous aider ?
+
+294
+00:18:09,723 --> 00:18:12,549
+Eh bien, qu'avons-nous là ?
+
+295
+00:18:14,866 --> 00:18:17,330
+- J'ai glissé et je suis tombé dessus.
+- On connaît.
+
+296
+00:18:19,024 --> 00:18:20,391
+C'est quoi, ça ?
+
+297
+00:18:20,641 --> 00:18:22,559
+C'est un bras de robot.
+
+298
+00:18:23,334 --> 00:18:24,803
+Où est le reste du robot ?
+
+299
+00:18:25,686 --> 00:18:26,840
+J'ai fait que ça.
+
+300
+00:18:27,522 --> 00:18:29,282
+C'est tout ce qu'il vous fallait.
+
+301
+00:18:32,088 --> 00:18:33,904
+Vous pouvez m'aider ?
+
+302
+00:18:34,480 --> 00:18:37,011
+D'accord.
+Ne vous énervez pas.
+
+303
+00:18:39,170 --> 00:18:43,038
+<i>Apportez une chaise roulante.
+On a un pénis coincé dans un robot.</i>
+
+304
+00:18:46,208 --> 00:18:48,021
+Vous pouviez être plus discrète !
+
+305
+00:18:48,418 --> 00:18:51,839
+On a pas de code
+pour "pénis coincé dans un robot".
+
+306
+00:18:53,310 --> 00:18:54,782
+À quoi sert l'ordinateur ?
+
+307
+00:18:54,949 --> 00:18:57,302
+- Il contrôle le bras.
+- Mais il a planté.
+
+308
+00:18:57,660 --> 00:19:00,180
+Vous avez essayé de l'éteindre
+et de le rallumer ?
+
+309
+00:19:01,065 --> 00:19:02,975
+C'est pas aussi simple.
+
+310
+00:19:03,225 --> 00:19:04,225
+Non !
+
+311
+00:19:11,615 --> 00:19:14,167
+Winnie l'ourson
+est sorti de l'arbre à miel.
+
+312
+00:19:16,700 --> 00:19:19,074
+Maintenant, on peut avoir des cookies
+et du soda ?
+
+313
+00:19:25,306 --> 00:19:26,368
+{\pub}T'avais raison.
+
+314
+00:19:26,535 --> 00:19:29,109
+La soirée a été très productive.
+
+315
+00:19:29,276 --> 00:19:32,576
+{\pos(192,205)}J'ai vu Amy Farrah Fowler
+sous un autre jour.
+
+316
+00:19:33,398 --> 00:19:35,594
+{\pos(192,205)}J'ai pas couché avec 31 mecs.
+
+317
+00:19:37,327 --> 00:19:40,356
+Je peux vérifier le calcul,
+mais les maths ont toujours raison.
+
+318
+00:19:43,140 --> 00:19:46,627
+En tout cas,
+après avoir passé du temps avec Amy,
+
+319
+00:19:46,794 --> 00:19:50,556
+je suis plus confiant
+pour passer à la prochaine étape.
+
+320
+00:19:50,866 --> 00:19:51,906
+C'est-à-dire ?
+
+321
+00:19:52,073 --> 00:19:55,012
+Utiliser la fécondation in vitro
+et une mère porteuse
+
+322
+00:19:55,179 --> 00:19:57,335
+pour offrir notre progéniture
+à l'humanité.
+
+323
+00:19:58,919 --> 00:20:00,422
+Tu penses encore à ça ?
+
+324
+00:20:00,756 --> 00:20:05,060
+L'humanité ne mérite pas de cadeau
+en ces temps incertains ?
+
+325
+00:20:07,088 --> 00:20:10,052
+D'accord.
+Voyons ça sous un autre angle.
+
+326
+00:20:10,404 --> 00:20:13,337
+Si tu fais un enfant avec Amy
+dans une boîte de Pétri,
+
+327
+00:20:13,587 --> 00:20:14,836
+je le dis à ta mère.
+
+328
+00:20:16,164 --> 00:20:17,491
+Et alors ?
+
+329
+00:20:17,658 --> 00:20:20,427
+- Elle rêve d'être grand-mère.
+- Vraiment ?
+
+330
+00:20:20,677 --> 00:20:22,651
+Ta mère qui est une grande dévote
+
+331
+00:20:22,818 --> 00:20:24,973
+accepterait un bébé éprouvette
+hors mariage ?
+
+332
+00:20:29,336 --> 00:20:30,348
+Mince.
+
+333
+00:20:31,493 --> 00:20:34,942
+Si j'avais réfléchi tout à l'heure,
+j'aurais pu éviter de gâcher ma soirée.
+
+334
+00:20:35,542 --> 00:20:38,821
+Il est encore tôt,
+tu peux sortir chercher M. 32.
+
+335
+00:20:43,811 --> 00:20:44,861
+Bonne nuit.
+
+336
+00:20:46,103 --> 00:20:47,423
+Quoi de neuf, Howard ?
+
+337
+00:20:47,923 --> 00:20:50,090
+J'ai décidé de ne pas procréer.
+
+338
+00:20:50,257 --> 00:20:51,087
+Super.
+
+339
+00:20:54,130 --> 00:20:55,975
+Comment ça, "c'est encore coincé" ?
+

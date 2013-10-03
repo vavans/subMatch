@@ -1,0 +1,1448 @@
+1
+00:00:01,829 --> 00:00:04,212
+Vous savez qui est le plus brave
+de l'univers Marvel ?
+
+2
+00:00:04,980 --> 00:00:07,054
+{\pos(192,220)}Celle qui épile Miss Hulk.
+
+3
+00:00:08,591 --> 00:00:09,853
+Encore mieux,
+
+4
+00:00:10,020 --> 00:00:13,013
+le jardinier mexicain
+sans-papiers de Capitaine America !
+
+5
+00:00:14,643 --> 00:00:17,722
+Ceux qui passent aux toilettes
+après La Chose.
+
+6
+00:00:19,502 --> 00:00:21,354
+Comme d'habitude, vous avez tort.
+
+7
+00:00:21,604 --> 00:00:26,234
+{\pos(192,205)}C'est le médecin
+qui examine la prostate de Wolverine.
+
+8
+00:00:27,972 --> 00:00:30,989
+{\pos(192,220)}Et celui qui se la fait examiner
+par Wolverine ?
+
+9
+00:00:32,320 --> 00:00:33,113
+Stupide.
+
+10
+00:00:34,325 --> 00:00:38,090
+{\pos(192,230)}Il n'est pas attiré par la prévention
+contre le cancer de la prostate.
+
+11
+00:00:44,524 --> 00:00:47,339
+Oui, l'ascenseur est en panne,
+prenez l'escalier.
+
+12
+00:00:48,168 --> 00:00:49,466
+{\pos(192,230)}Mais si, vous pouvez.
+
+13
+00:00:49,716 --> 00:00:52,015
+{\pos(192,230)}Les pizzas remontent au 16e siècle,
+
+14
+00:00:52,182 --> 00:00:55,314
+{\pos(192,230)}alors que le premier ascenseur
+ne fut installé qu'en 1852.
+
+15
+00:00:55,481 --> 00:00:59,900
+{\pos(192,220)}Ce qui veut dire que pendant 300 ans,
+on montait les pizzas par l'escalier.
+
+16
+00:01:00,524 --> 00:01:02,437
+Suivez la tradition.
+
+17
+00:01:04,370 --> 00:01:07,098
+Je vais chercher Penny
+pendant qu'il crache sur nos pizzas.
+
+18
+00:01:09,694 --> 00:01:11,988
+Tu crois que Wolverine
+a une prostate en adamantium ?
+
+19
+00:01:13,044 --> 00:01:14,610
+Quelle stupide question.
+
+20
+00:01:14,991 --> 00:01:17,708
+On parle de sonder les fesses
+de super héros.
+
+21
+00:01:18,741 --> 00:01:20,609
+Il n'y a pas de questions stupides.
+
+22
+00:01:29,401 --> 00:01:30,965
+Penny est là ?
+
+23
+00:01:32,125 --> 00:01:32,967
+Leonard ?
+
+24
+00:01:36,116 --> 00:01:38,098
+C'est un plaisir de te rencontrer.
+
+25
+00:01:38,767 --> 00:01:41,351
+Je comprendrais mieux
+avec un contexte.
+
+26
+00:01:41,664 --> 00:01:43,436
+Je te présente mon père.
+
+27
+00:01:44,579 --> 00:01:45,869
+Bien. Un contexte.
+
+28
+00:01:46,849 --> 00:01:48,213
+Entre donc.
+
+29
+00:01:48,733 --> 00:01:51,124
+Il peut pas rester.
+Il passait juste dire bonjour.
+
+30
+00:01:51,291 --> 00:01:53,279
+Merci d'être passé, chéri.
+À plus tard.
+
+31
+00:02:02,303 --> 00:02:03,403
+Étrange.
+
+32
+00:02:08,544 --> 00:02:11,798
+benji1000, golgi, IceFre@k,
+job22, Karim, kiima, MisterCaribou
+
+33
+00:02:30,784 --> 00:02:32,819
+{\pub}Es-tu sûr d'avoir assez de comics ?
+
+34
+00:02:33,069 --> 00:02:35,470
+{\pos(192,200)}Tu vas surveiller le télescope
+pendant 12 heures,
+
+35
+00:02:35,637 --> 00:02:39,058
+{\pos(192,200)}selon mes estimations,
+tu n'as prévu que 7 heures de lecture.
+
+36
+00:02:40,258 --> 00:02:43,699
+{\pos(192,210)}Et je tiens compte de tes difficultés
+à assimiler les idiomes des comics.
+
+37
+00:02:43,866 --> 00:02:45,469
+{\pos(192,210)}Comme "Bamf !" ou " Snikt !".
+
+38
+00:02:47,569 --> 00:02:49,052
+C'était raciste, ça, non ?
+
+39
+00:02:50,856 --> 00:02:54,524
+{\pos(192,200)}Ne sois pas susceptible.
+Il te traite d'illettré, pas ta race.
+
+40
+00:02:59,554 --> 00:03:00,949
+{\pos(192,200)}Ça va, Howard va passer.
+
+41
+00:03:01,116 --> 00:03:03,675
+{\pos(192,200)}On fera une bataille galactique
+et un Monopoly indien.
+
+42
+00:03:04,434 --> 00:03:06,963
+{\pos(192,200)}Je n'aime pas
+les nouvelles éditions du Monopoly.
+
+43
+00:03:07,130 --> 00:03:09,619
+{\pos(192,200)}Je préfère les classiques :
+originale et Klingon.
+
+44
+00:03:11,970 --> 00:03:13,766
+{\pos(192,210)}C'est comme l'édition originale.
+
+45
+00:03:13,933 --> 00:03:17,431
+{\pos(192,210)}Sauf que la devise est la roupie
+et qu'on construit des centres d'appel.
+
+46
+00:03:18,592 --> 00:03:21,409
+{\pos(192,205)}Et on peut mourir de dysenterie
+en piochant une carte Chance.
+
+47
+00:03:23,784 --> 00:03:25,580
+Ça, c'était raciste.
+
+48
+00:03:28,789 --> 00:03:30,335
+Devinez ce qui m'est arrivé.
+
+49
+00:03:30,802 --> 00:03:33,836
+{\pos(192,205)}Tu as franchi
+un portail interdimensionnel
+
+50
+00:03:34,003 --> 00:03:36,061
+{\pos(192,205)}qui t'a propulsé
+5 000 ans dans le futur.
+
+51
+00:03:36,228 --> 00:03:39,222
+{\pos(192,205)}Avec le savoir de l'époque,
+tu as créé une machine temporelle.
+
+52
+00:03:39,389 --> 00:03:42,592
+{\pos(192,205)}Tu es revenu
+pour nous emmener en 7 010,
+
+53
+00:03:42,759 --> 00:03:47,285
+{\pos(192,205)}où nous voyagerons dans les airs
+sur un dauphin contrôlé par la pensée.
+
+54
+00:03:54,652 --> 00:03:56,069
+Penny m'a embrassé.
+
+55
+00:03:56,319 --> 00:03:58,071
+Personne ne pouvait deviner ça.
+
+56
+00:03:59,197 --> 00:04:00,532
+Quel genre de baiser ?
+
+57
+00:04:00,782 --> 00:04:02,450
+Un long baiser, sur la bouche.
+
+58
+00:04:02,700 --> 00:04:06,801
+{\pos(192,205)}Peut-être qu'elle visait ta joue,
+mais que tu as tourné la tête.
+
+59
+00:04:07,699 --> 00:04:09,814
+Ça m'arrive souvent avec ma mère.
+
+60
+00:04:12,376 --> 00:04:16,089
+{\a6}Elle m'a présenté à son père,
+m'a embrassé et a claqué la porte.
+
+61
+00:04:16,756 --> 00:04:18,424
+C'était peut-être un message.
+
+62
+00:04:18,674 --> 00:04:19,551
+Tu crois ?
+
+63
+00:04:19,801 --> 00:04:22,428
+"Cet homme n'est pas mon père.
+Il me retient en otage.
+
+64
+00:04:23,888 --> 00:04:26,595
+{\a6}"Je vais faire un truc fou,
+tu appelleras peut-être la police."
+
+65
+00:04:27,565 --> 00:04:30,854
+{\pos(192,205)}C'est pas de la folie, m'embrasser.
+Elle le faisait tout le temps.
+
+66
+00:04:31,104 --> 00:04:32,736
+Selon Einstein, la folie,
+
+67
+00:04:32,903 --> 00:04:36,456
+c'est répéter une action
+en espérant des résultats différents.
+
+68
+00:04:37,860 --> 00:04:40,655
+Selon cette affirmation,
+Penny est vraiment folle à lier.
+
+69
+00:04:42,734 --> 00:04:45,410
+J'ai eu l'impression
+que ça voulait dire quelque chose.
+
+70
+00:04:45,660 --> 00:04:48,746
+Leonard est obsédé par Penny,
+comme au bon vieux temps.
+
+71
+00:04:49,747 --> 00:04:53,578
+J'aime la nouveauté, mais parfois,
+c'est bien de revenir aux classiques.
+
+72
+00:04:55,704 --> 00:04:59,090
+Refais-nous
+"Nos bébés seront beaux et vifs."
+
+73
+00:05:01,250 --> 00:05:03,177
+Elle m'a toujours fait rire !
+
+74
+00:05:05,518 --> 00:05:07,473
+Pourquoi je m'embête à vous parler ?
+
+75
+00:05:07,723 --> 00:05:09,726
+Rassure-toi, on t'écoute rarement.
+
+76
+00:05:11,041 --> 00:05:13,192
+- Je peux te parler ?
+- Bien sûr.
+
+77
+00:05:15,315 --> 00:05:17,564
+On ne verra jamais notre pizza.
+
+78
+00:05:19,807 --> 00:05:21,905
+Tu dois te poser des questions.
+
+79
+00:05:22,860 --> 00:05:25,990
+Pour le bisou ?
+Non, on m'embrasse tout le temps.
+
+80
+00:05:27,938 --> 00:05:30,997
+J'ai dit à mon père
+qu'on s'était remis ensemble.
+
+81
+00:05:31,427 --> 00:05:32,688
+Quoi ? Pourquoi ?
+
+82
+00:05:33,249 --> 00:05:35,710
+Tu es le premier mec
+qu'il ait vraiment apprécié.
+
+83
+00:05:35,961 --> 00:05:39,193
+T'as fait de longues études,
+t'as pas de tatouage,
+
+84
+00:05:39,360 --> 00:05:42,850
+pas de mandat d'arrêt,
+même pas de bébé.
+
+85
+00:05:44,573 --> 00:05:47,263
+Avec quel genre de mecs tu sortais ?
+
+86
+00:05:47,942 --> 00:05:49,097
+Des mecs normaux.
+
+87
+00:05:49,264 --> 00:05:52,403
+Notre séparation lui a brisé le cœur
+et il me harcelait.
+
+88
+00:05:52,570 --> 00:05:54,663
+"Comment va Leonard ?
+Remets-toi avec lui.
+
+89
+00:05:54,830 --> 00:05:57,273
+"Il n'a jamais dû
+se coincer sous une vache."
+
+90
+00:05:59,401 --> 00:06:02,070
+Pour qu'il me lâche,
+j'ai dit qu'on s'était réconciliés.
+
+91
+00:06:02,749 --> 00:06:03,749
+Vraiment ?
+
+92
+00:06:07,654 --> 00:06:09,315
+Comment ça s'est passé ?
+
+93
+00:06:10,279 --> 00:06:11,079
+Quoi ?
+
+94
+00:06:11,453 --> 00:06:15,150
+Tu t'es excusée ?
+Tu m'as dragué ?
+
+95
+00:06:17,579 --> 00:06:19,731
+T'enflamme pas.
+J'ai sifflé, t'as accouru.
+
+96
+00:06:21,789 --> 00:06:23,216
+Je ne crois pas.
+
+97
+00:06:23,467 --> 00:06:25,635
+Pourquoi tu veux parler de ça ?
+
+98
+00:06:25,885 --> 00:06:29,130
+Si on simule notre réconciliation,
+ça ne s'est pas passé comme ça.
+
+99
+00:06:30,319 --> 00:06:32,684
+Peu importe.
+Tu veux bien jouer le jeu ?
+
+100
+00:06:32,934 --> 00:06:35,452
+Tu veux vraiment
+que je trompe ton père
+
+101
+00:06:35,619 --> 00:06:37,980
+en jouant la comédie
+et en t'embrassant ?
+
+102
+00:06:38,147 --> 00:06:39,265
+Avec plaisir.
+
+103
+00:06:41,525 --> 00:06:42,525
+T'es là ?
+
+104
+00:06:49,785 --> 00:06:51,744
+Pas devant mon père, chéri.
+
+105
+00:06:51,995 --> 00:06:54,638
+Je t'ai vu faire pire
+avec des gars plus stupides.
+
+106
+00:06:57,085 --> 00:06:58,793
+Tu vois ?
+Ça ne le dérange pas.
+
+107
+00:06:59,043 --> 00:07:01,504
+On va manger un steak.
+Tu veux venir ?
+
+108
+00:07:01,755 --> 00:07:04,181
+C'est gentil,
+mais Léonard a du travail.
+
+109
+00:07:04,348 --> 00:07:05,875
+Oui, j'ai du travail.
+
+110
+00:07:06,042 --> 00:07:09,701
+Mais je vais quand même passer la soirée
+avec ma chérie et son père.
+
+111
+00:07:10,265 --> 00:07:11,771
+Je suis comme ça.
+
+112
+00:07:13,299 --> 00:07:14,392
+Viens là, toi.
+
+113
+00:07:23,677 --> 00:07:26,112
+- C-7.
+- Raté.
+
+114
+00:07:26,363 --> 00:07:28,976
+Comment c'est possible ?
+J'ai touché en C-6 et C-8.
+
+115
+00:07:29,143 --> 00:07:31,367
+Une partie du vaisseau
+doit se trouver en C7.
+
+116
+00:07:32,301 --> 00:07:33,786
+Sauf s'il a un trou au centre.
+
+117
+00:07:35,754 --> 00:07:38,708
+Quel genre de vaisseau spatial
+a un trou au milieu ?
+
+118
+00:07:40,503 --> 00:07:42,358
+Un bagel de combat Romulien.
+
+119
+00:07:46,446 --> 00:07:48,259
+Super, tu as pu venir.
+
+120
+00:07:49,677 --> 00:07:50,803
+Je l'ai invitée.
+
+121
+00:07:51,430 --> 00:07:52,760
+Où est le télescope ?
+
+122
+00:07:52,927 --> 00:07:55,850
+À Hawaï, mais Raj le contrôle d'ici.
+
+123
+00:07:56,101 --> 00:07:58,519
+Il espère voir une ombre
+sur Epsilon Eridani,
+
+124
+00:07:58,770 --> 00:08:00,774
+la preuve d'une planète en orbite.
+
+125
+00:08:01,689 --> 00:08:04,317
+On va fixer l'écran
+en espérant qu'il se passe un truc ?
+
+126
+00:08:05,182 --> 00:08:07,845
+C'est ce que j'ai fait
+quand on a loué <i>N'oublie jamais</i>.
+
+127
+00:08:12,095 --> 00:08:14,604
+Oui, Gena Rowlands est une perle.
+
+128
+00:08:16,135 --> 00:08:19,068
+Tu ferais bien d'ouvrir le vin,
+mes oreilles vont prendre l'eau.
+
+129
+00:08:22,521 --> 00:08:25,797
+Je peux pas boire,
+je vais faire une grande découverte.
+
+130
+00:08:26,306 --> 00:08:28,966
+Galilée a fait ses meilleurs travaux
+en buvant du vin.
+
+131
+00:08:29,433 --> 00:08:33,145
+- Comment tu le sais ?
+- Il était italien, c'est fort probable.
+
+132
+00:08:34,765 --> 00:08:37,350
+Tu l'ouvres parfois
+sans sortir un stéréotype culturel ?
+
+133
+00:08:38,134 --> 00:08:40,436
+Pardon,
+Galilée buvait du Sprite light.
+
+134
+00:08:42,439 --> 00:08:44,148
+Tu es mon meilleur ami,
+
+135
+00:08:44,399 --> 00:08:47,279
+apprends à connaître ma copine,
+comme tu as fait avec ma mère.
+
+136
+00:08:47,736 --> 00:08:49,286
+Ta mère me fait peur.
+
+137
+00:08:50,905 --> 00:08:53,739
+Oui, mais elle a arrêté
+de t'appeler Slumdog Millionnaire.
+
+138
+00:08:55,285 --> 00:08:56,160
+J'apprécie.
+
+139
+00:08:57,816 --> 00:08:58,816
+Voilà.
+
+140
+00:08:59,265 --> 00:09:01,499
+J'aimerais porter un toast.
+
+141
+00:09:01,750 --> 00:09:03,668
+À la science et à l'amitié.
+
+142
+00:09:05,608 --> 00:09:06,408
+Stop.
+
+143
+00:09:07,421 --> 00:09:08,506
+C'est bon.
+
+144
+00:09:08,756 --> 00:09:09,590
+Quoi ?
+
+145
+00:09:09,841 --> 00:09:12,818
+J'ai manipulé avec un gonocoque
+résistant à la Pénicilline.
+
+146
+00:09:12,985 --> 00:09:15,304
+Je me demandais
+si je m'étais lavé les mains.
+
+147
+00:09:23,062 --> 00:09:25,398
+- Merci pour le steak.
+- Ce fut un plaisir.
+
+148
+00:09:25,649 --> 00:09:28,609
+J'aime dîner avec un copain de Penny
+qui sait se servir d'une serviette.
+
+149
+00:09:30,439 --> 00:09:31,648
+Vraiment pas drôle.
+
+150
+00:09:32,347 --> 00:09:35,661
+Laisse-moi te parler de Donnie,
+un génie qu'elle a fréquenté.
+
+151
+00:09:35,828 --> 00:09:37,233
+Oublie cette histoire.
+
+152
+00:09:37,743 --> 00:09:41,455
+Il voulait fabriquer du biocarburant
+et le vendre au gouvernement.
+
+153
+00:09:41,969 --> 00:09:43,963
+- Beaucoup de gens font ça.
+- Tu vois ?
+
+154
+00:09:44,917 --> 00:09:48,254
+Il se contentait de mettre de la bouse
+dans la voiture de sa mère.
+
+155
+00:09:50,799 --> 00:09:53,176
+Super anecdote.
+Passons.
+
+156
+00:09:53,427 --> 00:09:54,756
+C'était un génie
+
+157
+00:09:54,923 --> 00:09:57,597
+comparé à celui qui voulait intégrer
+des jeux d'alcool aux J.O.
+
+158
+00:09:57,848 --> 00:10:01,070
+- C'était quoi, son nom ?
+- Curtis. Et je pense qu'il rigolait.
+
+159
+00:10:01,455 --> 00:10:03,436
+Sa pétition m'avait l'air sérieuse.
+
+160
+00:10:05,181 --> 00:10:08,065
+On arrête de parler de mes ex.
+
+161
+00:10:08,506 --> 00:10:10,939
+Ravi que tu aies trouvé un mec bien.
+
+162
+00:10:11,350 --> 00:10:12,403
+Merci, Wyatt.
+
+163
+00:10:13,848 --> 00:10:15,348
+Je suis un mec bien.
+
+164
+00:10:19,949 --> 00:10:21,404
+Tu prends un digestif ?
+
+165
+00:10:21,571 --> 00:10:24,081
+Il adorerait,
+mais il travaille demain.
+
+166
+00:10:24,525 --> 00:10:26,042
+Je peux être en retard.
+
+167
+00:10:26,292 --> 00:10:29,086
+Certainement pas,
+ta carrière est trop importante.
+
+168
+00:10:29,838 --> 00:10:33,507
+Derrière chaque grand homme,
+y a une râleuse qui le pousse à bosser.
+
+169
+00:10:35,326 --> 00:10:36,908
+Je vous le fais pas dire.
+
+170
+00:10:45,540 --> 00:10:46,623
+Je t'aime.
+
+171
+00:10:50,495 --> 00:10:51,636
+Moi aussi.
+
+172
+00:11:00,368 --> 00:11:02,498
+Bon sang, c'est reparti.
+
+173
+00:11:08,673 --> 00:11:11,040
+{\pub}Passez par la case départ,
+touchez 2 000 roupies.
+
+174
+00:11:13,750 --> 00:11:16,094
+Une vache sacrée bloque le chemin.
+
+175
+00:11:17,380 --> 00:11:19,720
+Dis-lui d'arrêter les blagues
+sur les vaches.
+
+176
+00:11:19,970 --> 00:11:22,932
+{\pos(192,200)}Quand une blague lui plaît,
+il la lâche pas.
+
+177
+00:11:24,308 --> 00:11:25,518
+{\pos(192,200)}Comme sa coiffure.
+
+178
+00:11:25,768 --> 00:11:27,645
+{\pos(192,200)}"Tu t'es coupé les cheveux ?"
+
+179
+00:11:27,895 --> 00:11:29,689
+{\pos(192,200)}"Non, ils sont tombés tout seuls."
+
+180
+00:11:31,130 --> 00:11:33,067
+Cette blague est très drôle.
+
+181
+00:11:34,485 --> 00:11:35,788
+Et au chinois,
+
+182
+00:11:35,955 --> 00:11:38,322
+il a toujours le même message
+dans son biscuit.
+
+183
+00:11:38,572 --> 00:11:41,742
+"À l'aide. Je suis prisonnier
+dans une usine de biscuits."
+
+184
+00:11:43,992 --> 00:11:46,080
+Je pense qu'on a fait le tour.
+
+185
+00:11:46,330 --> 00:11:48,249
+C'est vrai.
+Passons à sa mère.
+
+186
+00:11:49,708 --> 00:11:53,403
+"Howard, masse-moi les pieds,
+ma corne me fait mal."
+
+187
+00:11:55,673 --> 00:11:59,339
+"Je suis encore coincée
+dans la baignoire."
+
+188
+00:12:04,128 --> 00:12:05,128
+J'arrive.
+
+189
+00:12:08,602 --> 00:12:09,703
+Salut, ma puce.
+
+190
+00:12:11,334 --> 00:12:12,334
+La ferme.
+
+191
+00:12:13,261 --> 00:12:14,817
+Devine ce que je viens de faire.
+
+192
+00:12:15,491 --> 00:12:18,576
+Tu écrivais "Mme Leonard Hofstadter"
+dans un cahier ?
+
+193
+00:12:19,831 --> 00:12:22,616
+J'ai écouté mon père
+vanter tes mérites.
+
+194
+00:12:22,866 --> 00:12:24,678
+Admets-le, je suis charmant.
+
+195
+00:12:27,325 --> 00:12:29,165
+Pourquoi tu compliques les choses ?
+
+196
+00:12:29,415 --> 00:12:31,238
+Parle pour toi.
+Je m'amuse, moi.
+
+197
+00:12:33,627 --> 00:12:36,964
+C'est toi qui as commencé.
+Tu veux tout lui avouer ?
+
+198
+00:12:37,587 --> 00:12:39,258
+- Alors quoi ?
+- Je sais pas.
+
+199
+00:12:39,508 --> 00:12:42,178
+Tu aurais peut-être dû y penser
+avant de venir, non ?
+
+200
+00:12:43,454 --> 00:12:44,454
+Possible.
+
+201
+00:12:47,222 --> 00:12:50,292
+J'aimerais dire que je suis ravi
+que vous vous soyez remis ensemble.
+
+202
+00:12:50,459 --> 00:12:53,314
+Je le ferai quand j'arriverai
+à avoir à l'air sincère.
+
+203
+00:12:55,168 --> 00:12:56,233
+En attendant,
+
+204
+00:12:56,483 --> 00:12:59,369
+j'aimerais apporter des modifications
+à l'accord de colocation
+
+205
+00:12:59,536 --> 00:13:02,156
+afin d'y inclure
+les habitudes irritantes de Penny.
+
+206
+00:13:03,110 --> 00:13:04,158
+Mon Dieu !
+
+207
+00:13:04,408 --> 00:13:06,660
+- Quelles habitudes ?
+- Voilà la liste.
+
+208
+00:13:07,262 --> 00:13:10,664
+D'ailleurs, en 12e place,
+"Dit trop souvent mon Dieu."
+
+209
+00:13:12,340 --> 00:13:13,709
+T'as pas à faire ça.
+
+210
+00:13:13,959 --> 00:13:17,213
+- Leonard et moi, on...
+- Tu veux vraiment le mêler à ça ?
+
+211
+00:13:17,463 --> 00:13:18,752
+Me mêler à quoi ?
+
+212
+00:13:18,919 --> 00:13:21,934
+Vous manigancez quelque chose ?
+Je ne veux pas être lié à ça.
+
+213
+00:13:23,523 --> 00:13:27,184
+T'as raison.
+Aucune manigance, aucun lien.
+
+214
+00:13:28,280 --> 00:13:30,017
+On doit discuter
+d'autres habitudes ?
+
+215
+00:13:30,577 --> 00:13:32,840
+Nous ne discutons de rien.
+
+216
+00:13:33,007 --> 00:13:35,610
+Leonard est signataire de l'accord.
+
+217
+00:13:35,777 --> 00:13:39,860
+Il porte donc la responsabilité
+de tes infractions et des amendes.
+
+218
+00:13:41,331 --> 00:13:42,321
+Des amendes ?
+
+219
+00:13:42,571 --> 00:13:45,217
+Ouvre un compte de gage
+si tu veux que Penny dorme ici.
+
+220
+00:13:45,384 --> 00:13:46,388
+Signe.
+
+221
+00:13:51,474 --> 00:13:54,722
+Bonjour, Hawaï.
+Ici le Dr Koothrappali, à Pasadena.
+
+222
+00:13:55,290 --> 00:13:57,505
+Pourriez-vous
+réaligner le télescope ?
+
+223
+00:13:58,205 --> 00:14:00,423
+Sur la villa de Scarlett Johansson !
+
+224
+00:14:02,716 --> 00:14:04,270
+Je plaisante, Hawaï.
+
+225
+00:14:09,518 --> 00:14:12,435
+On aurait peut-être pas dû ouvrir
+une autre bouteille.
+
+226
+00:14:13,172 --> 00:14:14,293
+On le saura.
+
+227
+00:14:15,614 --> 00:14:19,789
+Raj, tu crois que cette planète
+pourrait avoir une atmosphère viable ?
+
+228
+00:14:20,275 --> 00:14:21,119
+Possible.
+
+229
+00:14:21,286 --> 00:14:25,040
+Si c'est le cas, je serai célèbre.
+Je ferai les couvertures de magazines.
+
+230
+00:14:25,207 --> 00:14:28,909
+Et à la place de mon studio,
+j'aurai un grand manoir.
+
+231
+00:14:29,159 --> 00:14:30,369
+Ça a l'air sympa.
+
+232
+00:14:30,619 --> 00:14:31,619
+Pas vrai ?
+
+233
+00:14:32,043 --> 00:14:34,993
+Si on aime être seul et mal-aimé
+dans un manoir.
+
+234
+00:14:38,846 --> 00:14:40,222
+On te rendrait visite.
+
+235
+00:14:40,838 --> 00:14:43,549
+Vous seriez intimidés
+par ma richesse et ma célébrité.
+
+236
+00:14:44,883 --> 00:14:47,331
+Je n'aurais que mon singe majordome
+génétiquement modifié
+
+237
+00:14:47,498 --> 00:14:49,938
+et les pièces
+de mon échiquier humain.
+
+238
+00:14:53,510 --> 00:14:55,311
+Il bascule vers le côté obscur.
+
+239
+00:14:55,816 --> 00:14:57,317
+Attends, il peut revenir.
+
+240
+00:14:57,771 --> 00:14:58,814
+À quoi bon ?
+
+241
+00:14:59,064 --> 00:15:00,241
+On l'a perdu.
+
+242
+00:15:01,567 --> 00:15:04,111
+J'ai pas embrassé de fille
+depuis plus d'un an.
+
+243
+00:15:04,547 --> 00:15:07,198
+Et celle du Comic-Con,
+dont tu m'as parlé ?
+
+244
+00:15:07,448 --> 00:15:10,293
+J'ai menti, comme toujours.
+Personne veut m'embrasser.
+
+245
+00:15:11,840 --> 00:15:13,468
+Mon pauvre petit.
+
+246
+00:15:13,840 --> 00:15:16,466
+Raj, tu es un homme merveilleux.
+
+247
+00:15:16,633 --> 00:15:18,792
+Beaucoup de filles
+voudraient t'embrasser.
+
+248
+00:15:19,815 --> 00:15:22,213
+- Où ?
+- Regarde autour de toi.
+
+249
+00:15:38,190 --> 00:15:39,490
+C'était amusant.
+
+250
+00:15:46,252 --> 00:15:48,919
+- Ça mord.
+- Faites attention.
+
+251
+00:15:49,450 --> 00:15:50,255
+Du mou.
+
+252
+00:15:52,117 --> 00:15:53,473
+Maintenant, ramenez-le.
+
+253
+00:15:55,260 --> 00:15:57,915
+Regarde ce bébé.
+La pêche est bonne, ici !
+
+254
+00:15:58,313 --> 00:16:00,113
+C'est le mode facile.
+
+255
+00:16:03,080 --> 00:16:04,240
+C'est moi.
+
+256
+00:16:07,018 --> 00:16:08,122
+Salut, chérie.
+
+257
+00:16:08,556 --> 00:16:10,283
+J'ai pas voulu te réveiller.
+
+258
+00:16:10,450 --> 00:16:13,289
+Je suis sorti boire un café
+et j'ai croisé Leonard.
+
+259
+00:16:13,456 --> 00:16:15,391
+Devine ce qu'on fait.
+On pêche !
+
+260
+00:16:17,239 --> 00:16:18,644
+Sur son canapé.
+
+261
+00:16:19,620 --> 00:16:21,995
+Salut, bébé ! Je t'aime !
+
+262
+00:16:24,020 --> 00:16:26,832
+Leonard dit qu'il t'aime.
+
+263
+00:16:28,377 --> 00:16:29,377
+Quoi ?
+
+264
+00:16:31,323 --> 00:16:32,340
+Je vois.
+
+265
+00:16:33,214 --> 00:16:34,743
+Tout était faux, alors ?
+
+266
+00:16:36,829 --> 00:16:38,229
+Je suis très déçu.
+
+267
+00:16:47,932 --> 00:16:49,983
+Je voulais vous dire un truc.
+
+268
+00:16:52,928 --> 00:16:54,972
+J'en reviens pas
+que tu m'aies menti.
+
+269
+00:16:55,222 --> 00:16:57,891
+- Je ne voulais pas...
+- Je m'occuperai de toi plus tard.
+
+270
+00:16:58,411 --> 00:16:59,578
+Y a pas d'urgence.
+
+271
+00:17:00,143 --> 00:17:03,727
+Ma fille pense que je l'aime pas assez
+pour la soutenir dans ses choix.
+
+272
+00:17:03,894 --> 00:17:04,940
+Ça me blesse.
+
+273
+00:17:05,190 --> 00:17:06,852
+- Désolée.
+- J'ai pas fini.
+
+274
+00:17:07,693 --> 00:17:10,680
+Je pensais qu'on avait passé
+l'époque où tu essayais de me duper.
+
+275
+00:17:10,847 --> 00:17:13,807
+Tu me disais que le sac planqué
+contenait du pot-pourri.
+
+276
+00:17:15,784 --> 00:17:18,912
+Et que le test d'urine
+était un test de diabète.
+
+277
+00:17:23,390 --> 00:17:24,743
+Je suis désolée.
+
+278
+00:17:25,210 --> 00:17:27,314
+Je respecte ton droit
+de faire tes choix,
+
+279
+00:17:27,481 --> 00:17:30,633
+mais sois honnête avec moi,
+sur ces choix.
+
+280
+00:17:30,883 --> 00:17:33,469
+Tu as raison.
+Dorénavant, je te dirai la vérité.
+
+281
+00:17:34,882 --> 00:17:38,140
+Va t'habiller.
+Qu'on aille manger avant que je parte.
+
+282
+00:17:39,016 --> 00:17:39,808
+Toi.
+
+283
+00:17:40,058 --> 00:17:41,435
+- Il ne...
+- Vas-y.
+
+284
+00:17:46,137 --> 00:17:48,404
+Je t'en supplie,
+ne renonce pas à elle.
+
+285
+00:17:51,330 --> 00:17:52,330
+Pardon ?
+
+286
+00:17:53,071 --> 00:17:55,710
+Je veux pas revoir ces skateurs,
+ces rappeurs blancs
+
+287
+00:17:55,877 --> 00:17:59,103
+et tous ces idiots en sueur
+qui mettent leur casquette à l'envers.
+
+288
+00:18:01,190 --> 00:18:03,832
+Ça a peu de chance d'arriver.
+
+289
+00:18:04,082 --> 00:18:05,334
+Débrouille-toi !
+
+290
+00:18:05,933 --> 00:18:06,794
+Triche !
+
+291
+00:18:07,044 --> 00:18:08,837
+Mens !
+Je m'en fiche !
+
+292
+00:18:09,303 --> 00:18:12,598
+Je veux des petits-enfants
+et pas qu'ils habitent une roulotte.
+
+293
+00:18:20,058 --> 00:18:21,016
+J'essaierai.
+
+294
+00:18:23,151 --> 00:18:24,645
+Je vais t'aider un peu.
+
+295
+00:18:25,291 --> 00:18:26,776
+- Pardon ?
+- Panique pas.
+
+296
+00:18:27,120 --> 00:18:31,514
+Garde tes excuses
+et je veux plus jamais te voir !
+
+297
+00:18:32,323 --> 00:18:35,155
+La psychologie inversée.
+C'est très malin.
+
+298
+00:18:35,405 --> 00:18:36,996
+Ferme-la. Pars.
+
+299
+00:18:38,492 --> 00:18:39,868
+Je vous ajouterai en ami.
+
+300
+00:18:47,907 --> 00:18:48,913
+Te voilà.
+
+301
+00:18:49,191 --> 00:18:51,030
+Je n'ai pas fermé l'œil de la nuit,
+
+302
+00:18:51,197 --> 00:18:55,411
+mais j'ai terminé la section "Penny"
+du nouvel accord de colocation.
+
+303
+00:18:57,510 --> 00:18:59,888
+Pas la peine.
+On a à nouveau rompu.
+
+304
+00:19:12,883 --> 00:19:14,868
+Tu penses aux autres, Leonard ?
+
+305
+00:19:17,886 --> 00:19:18,699
+Hein ?
+
+306
+00:19:25,211 --> 00:19:26,457
+{\pub}C'était bien, hier ?
+
+307
+00:19:29,287 --> 00:19:31,233
+La routine.
+
+308
+00:19:31,585 --> 00:19:33,655
+Des étoiles dans un télescope.
+
+309
+00:19:35,257 --> 00:19:38,343
+Tu attendais ça depuis des mois.
+Qu'est-ce qui s'est passé ?
+
+310
+00:19:38,593 --> 00:19:40,093
+Occupe-toi de tes fesses.
+
+311
+00:19:41,800 --> 00:19:43,714
+Je vais émettre une hypothèse.
+
+312
+00:19:43,881 --> 00:19:48,020
+Raj est entré en contact
+avec une civilisation alien...
+
+313
+00:19:49,396 --> 00:19:52,534
+Le gouvernement lui a ordonné
+de ne pas le révéler.
+
+314
+00:19:54,972 --> 00:19:57,029
+Il s'est rien passé.
+On change de sujet ?
+
+315
+00:19:57,402 --> 00:20:00,032
+Il l'a répété.
+Nous ne sommes pas seuls.
+
+316
+00:20:07,289 --> 00:20:09,208
+Tu as joué
+avec le gros télescope de Raj ?
+
+317
+00:20:13,993 --> 00:20:15,255
+D'où tu sors ça ?
+
+318
+00:20:15,505 --> 00:20:17,326
+Il a jamais touché mon télescope.
+
+319
+00:20:18,308 --> 00:20:19,343
+Tais-toi.
+
+320
+00:20:19,593 --> 00:20:20,552
+Toi aussi !
+
+321
+00:20:27,441 --> 00:20:29,258
+Tu m'as même pas appelé, ce matin.
+
