@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:02,139 --> 00:00:04,502
 Salut, fait moi une faveur
 et prends la table sept.
