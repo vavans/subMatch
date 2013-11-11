@@ -20,14 +20,15 @@ object Console {
 
   def fileMatchScore(s : String, srtName : String) = Levenshtein.distance(s, srtName)
 
-  def extractNumbers(s : String) = {
+  def extractNumbers(s : String) = s
+  /*{
     val numbers = new Regex("([\\d]+)")
     numbers.findAllMatchIn(s).flatMap(m => m.matched).mkString("")
-  }
+  }*/
 
-  def bestFileMatch(s1: String, s2: String, videoName: String): String = {
-    val numS1 = extractNumbers(s1)
-    val numS2 = extractNumbers(s2)
+  def bestFileMatch(s1: File, s2: File, videoName: String): File = {
+    val numS1 = extractNumbers(s1.getName)
+    val numS2 = extractNumbers(s2.getName)
     val numVideo = extractNumbers(videoName)
     val s1Score = fileMatchScore(numS1, numVideo)
     val s2Score = fileMatchScore(numS2, numVideo)
@@ -37,8 +38,8 @@ object Console {
       s2
   }
 
-  def findVideoMatch(videoName : String, strNames : Seq[String]) : String =
-    (strNames :\ "") ((current, accu) =>
+  def findVideoMatch(videoName : String, strNames : Seq[File]) : File =
+    (strNames :\ new File("")) ((current, accu) =>
       bestFileMatch(current, accu, videoName))
 
   /**
@@ -49,8 +50,11 @@ object Console {
     val path = args(0)
     val listSub = listFiles(new File(path), ".srt")
     val listMovies = listFiles(new File(path), ".avi") ++ listFiles(new File(path), ".mp4")
-    for (s <- listMovies) {
-      println("srt : " + s.getName + " ===> " + findVideoMatch(s.getName, listSub.map(_.getName)))
+    for (movie <- listMovies) {
+      val sub = findVideoMatch(movie.getName, listSub)
+      println("srt : " + movie.getName + " ===> " + sub.getName)
+      val newSub = new File(movie.getAbsolutePath.dropRight(4) + ".srt")
+      sub.renameTo(newSub)
     }
   }
 }
